@@ -58,6 +58,7 @@ colored_block_groups = { snappy=3, flammable=2 }
 colored_block_sound = "default.node_sound_leaves_defaults()"
 
 
+
 -- ===========================================================================
 -- From here down is the actual code to do the work.  You can either edit what
 -- lies below to define which colors this mod should produce (be sure you sync
@@ -183,7 +184,7 @@ for shade = 1, 3 do
 
 		s50colorname = colored_block_modname..":"..shadename..huename.."_s50"
 		s50pngname   = colored_block_modname.."_"..shadename..huename.."_s50.png"
-		s50wieldpngname      = "wield_" .. colored_block_modname..":"..shadename..huename.."_s50.png"
+		s50wieldpngname      = "wield_" .. colored_block_modname.."_"..shadename..huename.."_s50.png"
 		s50nodedesc  = shadename2..huename2..colored_block_description.." (50% Saturation)"
 
 		minetest.register_node(s50colorname, {
