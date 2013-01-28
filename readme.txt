@@ -10,7 +10,7 @@ BY:             bas080
 DESCRIPTION:    Decorate your buildings with colored flags
 VERSION:        1.0
 LICENCE:        WTFPL
-FORUM:          
+FORUM:          http://forum.minetest.net/edit.php?id=32970
 
 Changelog
 
@@ -19,6 +19,7 @@ Changelog
 * redifined craft for white flag
 * added crafts for coloured flags.
 * only contains hues
+* improved textures by using "shades" on flag
 
 0.2
 * coloured flags using unified dyes
