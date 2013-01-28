@@ -115,7 +115,7 @@ for i = 1, 12 do
   })
 	]]--
 
-  print(hue .. hue2)
+  print(hue2)
 
 end
 

@@ -27,3 +27,6 @@ Changelog
 
 0.1
 * white flag texture
+
+Licence
+WTFPL
