@@ -10,7 +10,7 @@ BY:             bas080
 DESCRIPTION:    Decorate your buildings with colored flags
 VERSION:        1.0
 LICENCE:        WTFPL
-FORUM:          http://forum.minetest.net/edit.php?id=32970
+FORUM:          http://forum.minetest.net/viewtopic.php?id=2484
 
 Changelog
 
