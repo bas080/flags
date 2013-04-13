@@ -8,7 +8,7 @@
 
 BY:             bas080
 DESCRIPTION:    Decorate your buildings with colored flags
-VERSION:        1.0
+VERSION:        1.1
 LICENCE:        WTFPL
 FORUM:          http://forum.minetest.net/viewtopic.php?id=2484
 
