@@ -8,11 +8,13 @@
 
 BY:             bas080
 DESCRIPTION:    Decorate your buildings with colored flags
-VERSION:        1.1
+VERSION:        1.2
 LICENCE:        WTFPL
 FORUM:          http://forum.minetest.net/viewtopic.php?id=2484
 
 Changelog
+1.2
+* Some code cleanup
 
 1.1
 * Added black flag
