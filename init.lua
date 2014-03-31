@@ -1,3 +1,34 @@
+--make variables local
+local HUES = {
+  "red",
+  "orange",
+  "yellow",
+  "lime",
+  "green",
+  "aqua",
+  "cyan",
+  "skyblue",
+  "blue",
+  "violet",
+  "magenta",
+  "redviolet"
+}
+
+local HUES2 = {
+  "Red",
+  "Orange",
+  "Yellow",
+  "Lime",
+  "Green",
+  "Aqua",
+  "Cyan",
+  "Sky-blue",
+  "Blue",
+  "Violet",
+  "Magenta",
+  "Red-violet"
+}
+
 --Nodes and crafts
 minetest.register_craft( {
   output = "flags:white 16",
