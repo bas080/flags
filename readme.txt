@@ -13,6 +13,16 @@ LICENCE:        WTFPL
 FORUM:          http://forum.minetest.net/viewtopic.php?id=2484
 
 Changelog
+1.3
+By: TumeniNodes 6-7-2016
+* Changes to code, bypassing "hues/HUES & hues2/HUES2"
+* Removed unifieddyes from depends list
+* Registered all nodes
+* Added register craft for all existing wool colors
+* Added Brown and Pink flags
+* Added Flag Posts
+* Proposing change of license to WYWPL
+
 1.2
 * Some code cleanup
 
